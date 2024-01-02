@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a iot enabled robot cat <br>👯 I’m looking to collaborate on the iot connectivity of the robot<br>🤝 I’m looking for help with arduino and other hardware related projects<br>🌱 I’m currently learning micropy<br>💬 Ask me about technology cars and cameras<br>⚡ Fun fact im still a student
+🔭 I’m currently working on a Quadruped autonomous robot Dog <br>👯 I’m looking to collaborate on the kinematics the robot<br>🤝 I’m looking for help and willing to help with arduino and other hardware related projects<br>🌱 I’m currently learning ROS <br>💬 Ask me about technology cars and cameras<br>⚡ Fun fact i'm still a student
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://meme-api.com/gimme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishnu-c-r&icon=0&color=0)](https://visitcount.itsvg.in)
