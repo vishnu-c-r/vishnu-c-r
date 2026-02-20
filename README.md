@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Quadruped autonomous robot Dog <br>👯 I’m looking to collaborate on the kinematics of the robot<br>🤝 I’m looking for help and willing to help with arduino and other hardware related projects<br>🌱 I’m currently learning ROS <br>💬 Ask me about technology cars and cameras<br>⚡ Fun fact - im an intern at SuperFabLab Kochi 
+🔭 I’m an Embedded systems designer at Prar labs <br>🤝 I’m looking for help and willing to help with arduino and other hardware related projects<br>🌱 I’m currently learning ROS <br>💬 Ask me about technology cars and cameras<br>
 
 
 ## 🌐 Socials:
