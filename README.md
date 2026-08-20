@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an Embedded systems designer at Prar labs <br>🤝 I’m looking for help and willing to help with arduino and other hardware related projects<br>🌱 I’m currently learning ROS <br>💬 Ask me about technology cars and cameras<br>
+🔭 I’m an Embedded systems designer at Prar labs <br>🤝 I’m looking to contribute to hardware related projects<br>🌱 I’m currently learning ROS <br>💬 Ask me about technology, robots, cars and cameras<br>
 
 
 ## 🌐 Socials:
